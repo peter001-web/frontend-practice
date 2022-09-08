@@ -112,14 +112,12 @@
     width: 40%;
     margin-right: 100PX;
     display: flex;
-    background-image: linear-gradient(
-        0deg,
-        var(blue) 70%,
-        var(red) 30%
+    background-color: white;
+    
 }
 
 .D-3 img{
-    width: 9%;
+    width: 10%;
     display: flex;
     margin-top: 60px;
     margin-left: 60px;

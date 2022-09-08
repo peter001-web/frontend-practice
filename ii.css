@@ -1,0 +1,70 @@
+.q{
+    display: flex;
+    width: 100%;
+}
+
+.q img{
+    width: 10%;
+    margin-left: 50px;
+    margin-top: 10px;
+    }
+    
+    .q p{
+        width: 90%;
+        margin-right: -20px;
+    }
+
+.D-3{
+    border: 1px solid black;
+    width: 20%;
+    margin-right: 100PX;
+    display: flex;
+    background-color: white;
+    
+}
+
+.D-3 img{
+    width: 10%;
+    /* margin-left: 170px; */
+}
+
+.D-3 p{
+    margin-right: 200px;
+    width: 100%;
+}
+
+.o{
+    display: flex;
+    width: 100%;
+}
+
+.r{
+    display: flex;
+    width: 100%;
+}
+
+.r img{
+width: 10%;
+margin-left: 50px;
+margin-top: 10px;
+}
+
+.r p{
+    width: 90%;
+    margin-right: -20px;
+}
+
+
+
+
+
+.o img{
+width: 10%;
+margin-left: 50px;
+margin-top: 10px;
+}
+
+.o p{
+    width: 90%;
+    margin-right: -20px;
+}
