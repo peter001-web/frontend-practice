@@ -2,37 +2,37 @@
     margin: 0;
 }
 
-.a{
+.x{
     margin-left: 200px;
     display: flex;
     gap: 10px;
 }
 
-.b{
+.y{
     border: 1px solid black;
     padding-right: 40px ;
     width: 15%;
     padding: 10px 0px 20px 10px;
 }
 
-.b img{
+.y img{
     /* margin-left: 0px; */
     width: 13%;
     margin-bottom: 5px;
 
 }
 
-.b p{
+.y p{
 margin-bottom: 10px;
 
 }
 
-.b1{
+.y1{
     display: flex;
     align-items: center;
 }
 
-.c{ 
+.z{ 
       
     margin-left: 200px;
     display: flex;
