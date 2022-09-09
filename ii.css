@@ -1,14 +1,40 @@
+*{
+    margin: 0;
+}
+
 .a{
     margin-left: 200px;
     display: flex;
+    gap: 10px;
+}
+
+.b{
+    border: 1px solid black;
+    padding-right: 40px ;
+    width: 20%;
+    padding: 10px 0px 20px 10px;
+}
+
+.b img{
+    /* margin-left: 0px; */
+    width: 13%;
+    margin-bottom: 5px;
+
+}
+
+.b p{
+margin-bottom: 10px;
+
 }
 
 .b1{
-    border: 1px solid black;
-    width: 1000%;
+    display: flex;
+    align-items: center;
 }
 
-.b2{
-    border: 1px solid black;
-    width: 1000%;
+.c{
+    margin-left: 200px;
+    display: flex;
+    gap: 100px;
+    margin-top: 20px;
 }
