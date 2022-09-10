@@ -71,7 +71,7 @@ body{
 
 .content-D{
     border: 1px solid ;
-    border-style: none;
+    border-style: n;
 
     margin-top: 50px;
     margin-bottom: 100px;
@@ -80,7 +80,7 @@ body{
     margin-left:-80px ;
     background-color: #E9FBF2;
     display: flex;
-    border-radius: 8p
+    border-radius: 8px
 }
 
 /* .content-D p{
