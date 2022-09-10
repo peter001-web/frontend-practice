@@ -175,3 +175,45 @@
 }
 
 
+.x{
+    display: flex;
+    gap: 10px;
+}
+
+.y{
+    border: 1px solid black;
+    padding-right: 40px ;
+    width: 15%;
+    padding: 10px 0px 20px 10px;
+}
+
+.y img{
+    /* margin-left: 0px; */
+    width: 13%;
+    margin-bottom: 5px;
+
+}
+
+.y p{
+margin-bottom: 10px;
+
+}
+
+.y1{
+    display: flex;
+    align-items: center;
+}
+
+.z{ 
+      
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.w{
+    margin-bottom: 50px;
+    width: 100%;
+    margin-top: -50px;
+}
+
