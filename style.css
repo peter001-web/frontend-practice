@@ -245,3 +245,13 @@ footer{
     line-height: 1.5em;
 
 }
+
+
+
+
+@media screen and (max-width: 768px) {
+    body{
+        width: 100%;
+        color: ;
+    }
+}
